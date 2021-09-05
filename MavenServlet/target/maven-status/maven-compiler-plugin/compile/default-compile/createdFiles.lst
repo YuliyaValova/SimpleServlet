@@ -1,1 +1,3 @@
 com\jwd\controller\FrontController.class
+com\jwd\controller\entity\User.class
+com\jwd\controller\dao\Database.class
